@@ -1,3 +1,5 @@
+# Take #1 to implement Image Classifier (Dog vs Cat) using Densenet transfered network
+
 #Import Libraries
 %matplotlib inline
 %config InlineBackend.figure_format = 'retina'
